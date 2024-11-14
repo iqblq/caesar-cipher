@@ -1,4 +1,5 @@
 #Caesar Cipher Calculator
+
 Caesar Cipher Calculator adalah aplikasi GUI berbasis Python yang menggunakan tkinter untuk mengenkripsi dan mendekripsi teks menggunakan metode Caesar Cipher. Aplikasi ini memungkinkan pengguna untuk mengubah teks sesuai dengan nilai pergeseran yang diinginkan, antara 1 hingga 25.
 
 Fitur
