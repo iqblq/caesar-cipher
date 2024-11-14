@@ -51,9 +51,6 @@ Caesar Cipher Calculator adalah aplikasi GUI berbasis Python yang menggunakan `t
 
 Antarmuka menampilkan tata letak grid yang rapi, dengan warna latar belakang dan teks yang kontras serta font yang konsisten.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT.
 
 ---
 
