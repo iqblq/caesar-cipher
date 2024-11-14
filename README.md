@@ -1,7 +1,3 @@
-README yang diperbarui dengan link GitHub:
-
----
-
 ## README
 
 # Caesar Cipher Calculator
@@ -10,10 +6,9 @@ Caesar Cipher Calculator adalah aplikasi GUI berbasis Python yang menggunakan `t
 
 ## Fitur
 
-- **Enkripsi**: Memungkinkan pengguna untuk mengenkripsi teks dengan Caesar Cipher berdasarkan nilai pergeseran.
-- **Dekripsi**: Mengembalikan teks yang terenkripsi menjadi teks asli berdasarkan nilai pergeseran.
+- **Enkripsi dan Dekripsi**: Memungkinkan pengguna untuk mengenkripsi teks dengan Caesar Cipher berdasarkan nilai pergeseran, dan mengembalikan teks yang terenkripsi menjadi teks asli.
 - **Antarmuka Sederhana**: Menggunakan `tkinter` untuk tampilan sederhana dengan fitur full-screen.
-- **Peringatan Input**: Memastikan nilai pergeseran adalah antara 1 dan 25, serta memeriksa input numerik untuk pergeseran.
+- **Validasi Input**: Memastikan nilai pergeseran adalah antara 1 dan 25, serta input numerik untuk pergeseran.
 
 ## Persyaratan
 
@@ -30,7 +25,7 @@ Caesar Cipher Calculator adalah aplikasi GUI berbasis Python yang menggunakan `t
    
 2. Jalankan program:
    ```bash
-   python main.py
+   python kalkulator_caesar.py
    ```
 
 ## Penggunaan
@@ -43,18 +38,18 @@ Caesar Cipher Calculator adalah aplikasi GUI berbasis Python yang menggunakan `t
 
 ## Struktur Proyek
 
-- **main.py**: Kode utama untuk menjalankan aplikasi Caesar Cipher Calculator.
+- **kalkulator_caesar.py**: Kode utama untuk menjalankan aplikasi Caesar Cipher Calculator.
 
 ## Penjelasan Fungsi Utama
 
 - **enkripsi(plain_text, shift)**: Fungsi untuk mengenkripsi teks berdasarkan pergeseran yang diberikan.
-- **dekripsi(cipher_text, shift)**: Fungsi untuk mendekripsi teks yang telah terenkripsi berdasarkan pergeseran.
+- **dekripsi(cipher_text, shift)**: Fungsi untuk mendekripsi teks yang telah terenkripsi.
 - **proses_enkripsi()** dan **proses_dekripsi()**: Fungsi untuk menangani input pengguna, melakukan enkripsi atau dekripsi, dan menampilkan hasilnya.
 - **keluar_aplikasi()**: Fungsi untuk menutup aplikasi.
 
 ## Tampilan Aplikasi
 
-Tampilan antarmuka disesuaikan agar mudah digunakan, dengan tata letak grid dan komponen yang memiliki warna latar belakang dan teks yang menarik serta menggunakan font yang konsisten.
+Antarmuka menampilkan tata letak grid yang rapi, dengan warna latar belakang dan teks yang kontras serta font yang konsisten.
 
 ## Lisensi
 
