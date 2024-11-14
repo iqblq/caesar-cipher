@@ -1,3 +1,7 @@
+README yang diperbarui dengan link GitHub:
+
+---
+
 ## README
 
 # Caesar Cipher Calculator
@@ -20,8 +24,8 @@ Caesar Cipher Calculator adalah aplikasi GUI berbasis Python yang menggunakan `t
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/Caesar-Cipher-Calculator.git
-   cd Caesar-Cipher-Calculator
+   git clone https://github.com/iqblq/caesar-cipher.git
+   cd caesar-cipher
    ```
    
 2. Jalankan program:
@@ -58,4 +62,4 @@ Proyek ini dilisensikan di bawah lisensi MIT.
 
 ---
 
-Semoga aplikasi ini berguna! Silakan kontribusi dan beri bintang jika Anda menemukan proyek ini bermanfaat.
+[GitHub Repository](https://github.com/iqblq/caesar-cipher.git)
